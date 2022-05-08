@@ -27,7 +27,7 @@ python main.py http://music.163.com/#/program?id=1369232209 # dj
 
 本工具目前因为网易云的网页端调用修改
 
-只能使用单曲和歌单内容 歌单一次只能拉取10首
+只能使用单曲
 
 ## 鸣谢(Thanks)
 
@@ -41,4 +41,4 @@ python main.py http://music.163.com/#/program?id=1369232209 # dj
 
 ## 反馈(Feedback)
 
-如果有问题，欢迎提 [issues][]
+如果有问题，欢迎提 [issues][https://github.com/huige233/netease_download/issues]
