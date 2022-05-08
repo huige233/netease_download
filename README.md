@@ -41,4 +41,4 @@ python main.py http://music.163.com/#/program?id=1369232209 # dj
 
 ## 反馈(Feedback)
 
-如果有问题，欢迎提 [issues][https://github.com/huige233/netease_download/issues]
+如果有问题，欢迎提issue
