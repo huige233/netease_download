@@ -29,6 +29,12 @@ python main.py http://music.163.com/#/program?id=1369232209 # dj
 
 只能使用单曲
 
+理论更新计划
+
+参考 https://neteasecloudmusicapi.vercel.app/
+
+重写逻辑结构
+
 ## 鸣谢(Thanks)
 
 本工具借鉴了下面三个优秀开源项目的代码，特此注明
